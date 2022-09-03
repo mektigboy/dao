@@ -35,4 +35,4 @@ const deployGovernorContract: DeployFunction = async (
 
 export default deployGovernorContract;
 
-deployGovernorContract.tags = ["all", "governance-contract"];
+deployGovernorContract.tags = ["all", "governor-contract"];
