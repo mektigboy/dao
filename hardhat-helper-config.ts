@@ -14,4 +14,4 @@ export const FUNCTION_ARGS = 100;
 
 export const developmentChains = ["hardhat", "localhost"];
 
-export const PROPOSAL_FILE = "proposal.json";
+export const PROPOSAL_FILE = "proposals.json";
